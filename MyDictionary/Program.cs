@@ -26,7 +26,7 @@ namespace MyDictionary
             plakaSehir2.Add(68, "Aksaray");
             plakaSehir2.Add(38, "Kayseri");
             plakaSehir2.Add(32, "Isparta");
-            Console.WriteLine(plakaSehir2.Count); //--> 4 sonucunu verdi. Yani başarıyla 4 adet veri ekleyebildik.
+            Console.WriteLine(plakaSehir2.Count); //--> 4 sonucunu verdi. Yani başarıyla 4 adet veri ekleyebildik...
 
 
          
